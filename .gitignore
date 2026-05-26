@@ -1,0 +1,7 @@
+*.csv
+*.gaf
+*.obo
+*.json
+*.tsv
+*.pyc
+blast_single_run/

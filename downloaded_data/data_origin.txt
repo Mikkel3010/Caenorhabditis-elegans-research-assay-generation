@@ -1,0 +1,8 @@
+
+
+
+CelegansFASTAsequences.fa: https://parasite.wormbase.org/ftp.html
+Homo_sapiens.GRCh38.pep.all.fa: https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/pep/
+ORTHOLOGY_AGR.json: https://www.alliancegenome.org/downloads: Orthology : Alliance combined orthology data
+Human_FASTAs_and_uniprot_ids.tsv: https://www.uniprot.org/id-mapping: insertion of all HGNC entries from AGR ortholog data.
+AlphaMissense_aa_substitutions: https://zenodo.org/records/8208688
